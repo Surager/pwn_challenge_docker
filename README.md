@@ -1,2 +1,10 @@
 # pwn_challenge_docker
-docker-compose up -d
+
+自用pwn题目docker。
+
+部署命令
+
+```sh
+$ docker-compose up -d
+```
+
